@@ -1,0 +1,108 @@
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
+ChefNo: 0
+SU  
+ChefNo: 1
+S F 
+ChefNo: 2
+S  G
+ChefNo: 3
+ UF 
+ChefNo: 4
+ U G
+ChefNo: 5
+  FG
