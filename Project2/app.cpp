@@ -261,9 +261,9 @@ void InitializeDeliverer(struct Deliverer deliverer){
 }
 
 /**
- * @brief initializes all the chefs's current ingredients
+ * @brief prints the chefs's current ingredients from file
  * 
- * @param chef to be initialized
+ * @param chefs to be printed from file
  */
 
 void PrintChefs(struct Chef chefs[6]){
